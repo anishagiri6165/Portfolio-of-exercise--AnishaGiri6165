@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_sam">Happy Birthday Sam!</string>
+    <string name="merry_christmas">Merry Christmas</string>
+    <string name="signature_text">From Emma</string>
+    <string name="subtitle_leeds">From Leeds Beckett Computing</string>
+</resources>
